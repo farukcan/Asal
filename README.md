@@ -5,3 +5,6 @@ Atkin algoritması ile asal sayı üretme fonksiyoları içeriir.
 Asal sayı doğrulama isPrime(sayı)
 Belirli aralıktaki, asal sayıları depolama ve rastgele asal sayı olma için
 asalDepo sınıfını içerir
+
+## atkin .js
+sieve of atkin ile bellir aralıkta sayıların asallarını bulur
